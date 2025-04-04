@@ -1,6 +1,7 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import JSONResponse
 import json
+import uvicorn
 from pathlib import Path
 
 app = FastAPI()
@@ -65,6 +66,11 @@ async def get_language_info(lang_acronym: str, req_lang: str):
     else:
         raise HTTPException(detail=f"{req_lang.capitalize} does not exist.", status_code=404)
 
+
 @app.get("/linear/file/{filename}")
 async def get_file(filename: str):
 	pass
+
+
+if __name__ == '__main__':
+	uvicorn.run("main:app", host="0.0.0.0", port=8000)
