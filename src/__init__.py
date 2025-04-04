@@ -64,3 +64,7 @@ async def get_language_info(lang_acronym: str, req_lang: str):
         raise HTTPException(detail=f"{req_lang.capitalize} endpoint is not implemented yet.", status_code=501)
     else:
         raise HTTPException(detail=f"{req_lang.capitalize} does not exist.", status_code=404)
+
+@app.get("/linear/file/{filename}")
+async def get_file(filename: str):
+	pass

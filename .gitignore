@@ -1,0 +1,47 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# FastAPI specific
+*.db
+*.sqlite
+*.log
+
+# PyCharm specific
+.idea/
+
+# VS Code specific (if used in addition to PyCharm)
+.vscode/
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+
+# Package distribution
+dist/
+build/
+*.egg-info/
+
+# pytest cache
+.cache/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Pycharm test results
+*.iml
+
+# Log files
+*.log
+

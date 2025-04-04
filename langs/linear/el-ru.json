@@ -2,13 +2,13 @@
     "id": 0,
     "name": "Греческий",
     "acronym": "el",
-	"source": "ru",
+    "source": "ru",
     "emoji": "🇬🇷",
     "type": "linear",
     "letters_count": 24,
     "letters": [
         {
-			"index": 0,
+            "index": 0,
             "name": "Α α",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Α+α",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=hello",
@@ -16,11 +16,11 @@
             "description": "Альфа, первая буква греческого алфавита.",
             "uppercase": "Α",
             "lowercase": "α",
-            "quiz": "Αγόρι Άγκυρα Αγαπητός Αλφαβητο Άνθρωπος",
+            "quiz": "Аист Аромат Ананас Алфавит Акт",
             "phonetic_transcription": "а"
         },
         {
-			"index": 1,
+            "index": 1,
             "name": "Β β",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Β+β",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Β+β",
@@ -28,11 +28,11 @@
             "description": "Бета, вторая буква греческого алфавита.",
             "uppercase": "Β",
             "lowercase": "β",
-            "quiz": "Βιβλίο Βάση Βενζίνη Βόλτα Βαθμός",
+            "quiz": "Банан Брат Бассейн Бабочка Барабан",
             "phonetic_transcription": "б"
         },
         {
-			"index": 2,
+            "index": 2,
             "name": "Γ γ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Γ+γ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Γ+γ",
@@ -40,11 +40,11 @@
             "description": "Гамма, третья буква греческого алфавита.",
             "uppercase": "Γ",
             "lowercase": "γ",
-            "quiz": "Γαλάζιο Γραφείο Γλώσσα Γενικό Γύρος",
+            "quiz": "Гараж Гусеница Гриб Город Герой",
             "phonetic_transcription": "г"
         },
         {
-			"index": 3,
+            "index": 3,
             "name": "Δ δ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Δ+δ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Δ+δ",
@@ -52,11 +52,11 @@
             "description": "Дельта, четвертая буква греческого алфавита.",
             "uppercase": "Δ",
             "lowercase": "δ",
-            "quiz": "Δέντρο Διάστημα Δεξιά Δαχτυλίδι Δρόμος",
+            "quiz": "Дом Друзья Дорога Добро Дыня",
             "phonetic_transcription": "д"
         },
         {
-			"index": 4,
+            "index": 4,
             "name": "Ε ε",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Ε+ε",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Ε+ε",
@@ -64,11 +64,11 @@
             "description": "Эпсилон, пятая буква греческого алфавита.",
             "uppercase": "Ε",
             "lowercase": "ε",
-            "quiz": "Εστιατόριο Έλληνας Ελεύθερος Ερώτηση Επιτυχία",
+            "quiz": "Экран Этаж Эмоция Электричество Эксперт",
             "phonetic_transcription": "э"
         },
         {
-			"index": 5,
+            "index": 5,
             "name": "Ζ ζ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Ζ+ζ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Ζ+ζ",
@@ -76,11 +76,11 @@
             "description": "Зета, шестая буква греческого алфавита.",
             "uppercase": "Ζ",
             "lowercase": "ζ",
-            "quiz": "Ζώο Ζαχαροπλαστείο Ζώνη Ζέστη Ζωή",
+            "quiz": "Залог Забор Зараза Забота Звезда",
             "phonetic_transcription": "з"
         },
         {
-			"index": 6,
+            "index": 6,
             "name": "Η η",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Η+η",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Η+η",
@@ -88,11 +88,11 @@
             "description": "Ита, седьмая буква греческого алфавита.",
             "uppercase": "Η",
             "lowercase": "η",
-            "quiz": "Ηλεκτρισμός Ηλιοφάνεια Ημιχρόνιο Ηθοποιός Ηχώ",
+            "quiz": "Игра История Имя Искра Истина",
             "phonetic_transcription": "и"
         },
         {
-			"index": 7,
+            "index": 7,
             "name": "Θ θ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Θ+θ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Θ+θ",
@@ -100,11 +100,11 @@
             "description": "Тета, восьмая буква греческого алфавита.",
             "uppercase": "Θ",
             "lowercase": "θ",
-            "quiz": "Θαλάσσα Θρόισμα Θέαμα Θέατρο Θύρα",
+            "quiz": "Таракан Табуретка Трубочка Танк Тетрадь",
             "phonetic_transcription": "т"
         },
         {
-			"index": 8,
+            "index": 8,
             "name": "Ι ι",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Ι+ι",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Ι+ι",
@@ -112,11 +112,11 @@
             "description": "Йота, девятая буква греческого алфавита.",
             "uppercase": "Ι",
             "lowercase": "ι",
-            "quiz": "Ιδέα Ικανότητα Ιδανικό Ιστορία Ιατρική",
+            "quiz": "История Или Ислам Искра Ивристика",
             "phonetic_transcription": "и"
         },
         {
-			"index": 9,
+            "index": 9,
             "name": "Κ κ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Κ+κ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Κ+κ",
@@ -128,7 +128,7 @@
             "phonetic_transcription": "к"
         },
         {
-			"index": 10,
+            "index": 10,
             "name": "Λ λ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Λ+λ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Λ+λ",
@@ -140,7 +140,7 @@
             "phonetic_transcription": "л"
         },
         {
-			"index": 11,
+            "index": 11,
             "name": "Μ μ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Μ+μ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Μ+μ",
@@ -152,7 +152,7 @@
             "phonetic_transcription": "м"
         },
         {
-			"index": 12,
+            "index": 12,
             "name": "Ν ν",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Ν+ν",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Ν+ν",
@@ -164,7 +164,7 @@
             "phonetic_transcription": "н"
         },
         {
-			"index": 13,
+            "index": 13,
             "name": "Ξ ξ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Ξ+ξ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Ξ+ξ",
@@ -176,7 +176,7 @@
             "phonetic_transcription": "кс"
         },
         {
-			"index": 14,
+            "index": 14,
             "name": "Ο ο",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Ο+ο",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Ο+ο",
@@ -188,7 +188,7 @@
             "phonetic_transcription": "о"
         },
         {
-			"index": 15,
+            "index": 15,
             "name": "Π π",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Π+π",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Π+π",
@@ -200,7 +200,7 @@
             "phonetic_transcription": "п"
         },
         {
-			"index": 16,
+            "index": 16,
             "name": "Ρ ρ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Ρ+ρ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Ρ+ρ",
@@ -212,7 +212,7 @@
             "phonetic_transcription": "р"
         },
         {
-			"index": 17,
+            "index": 17,
             "name": "Σ σ/ς",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Σ+σ/ς",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Σ+σ/ς",
@@ -224,7 +224,7 @@
             "phonetic_transcription": "с"
         },
         {
-			"index": 18,
+            "index": 18,
             "name": "Τ τ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Τ+τ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Τ+τ",
@@ -236,7 +236,7 @@
             "phonetic_transcription": "т"
         },
         {
-			"index": 19,
+            "index": 19,
             "name": "Υ υ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Υ+υ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Υ+υ",
@@ -248,7 +248,7 @@
             "phonetic_transcription": "и"
         },
         {
-			"index": 20,
+            "index": 20,
             "name": "Φ φ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Φ+φ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Φ+φ",
@@ -260,7 +260,7 @@
             "phonetic_transcription": "ф"
         },
         {
-			"index": 21,
+            "index": 21,
             "name": "Χ χ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Χ+χ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Χ+χ",
@@ -272,7 +272,7 @@
             "phonetic_transcription": "х"
         },
         {
-			"index": 22,
+            "index": 22,
             "name": "Ψ ψ",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Ψ+ψ",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Ψ+ψ",
@@ -284,7 +284,7 @@
             "phonetic_transcription": "пс"
         },
         {
-			"index": 23,
+            "index": 23,
             "name": "Ω ω",
             "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Ω+ω",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=Ω+ω",
@@ -296,16 +296,334 @@
             "phonetic_transcription": "о"
         }
     ],
-    "words_count": 1,
     "words": [
         {
-            "name": "Καλημέρα",
-            "translate": "Доброе утро",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=Καλημέρα",
+            "emoji": "👋",
+            "word": "γειά",
+            "translation": "привет",
+            "transcription": "гья",
             "sound_url": "",
-            "type": "greeting",
-            "category": "common",
-            "module": "basic"
+            "module": "Basic"
+        },
+        {
+            "emoji": "👍",
+            "word": "καλός",
+            "translation": "хороший",
+            "transcription": "калос",
+            "sound_url": "",
+            "module": "Basic"
+        },
+        {
+            "emoji": "❓",
+            "word": "τι",
+            "translation": "что",
+            "transcription": "ти",
+            "sound_url": "",
+            "module": "Basic"
+        },
+        {
+            "emoji": "✅",
+            "word": "ναι",
+            "translation": "да",
+            "transcription": "не",
+            "sound_url": "",
+            "module": "Basic"
+        },
+        {
+            "emoji": "❌",
+            "word": "όχι",
+            "translation": "нет",
+            "transcription": "охи",
+            "sound_url": "",
+            "module": "Basic"
+        },
+        {
+            "emoji": "🙏",
+            "word": "ευχαριστώ",
+            "translation": "спасибо",
+            "transcription": "эфхаристо",
+            "sound_url": "",
+            "module": "Basic"
+        },
+        {
+            "emoji": "😊",
+            "word": "χαίρω",
+            "translation": "рад",
+            "transcription": "херо",
+            "sound_url": "",
+            "module": "Basic"
+        },
+        {
+            "emoji": "💬",
+            "word": "λόγος",
+            "translation": "слово",
+            "transcription": "логос",
+            "sound_url": "",
+            "module": "Basic"
+        },
+        {
+            "emoji": "📚",
+            "word": "βιβλίο",
+            "translation": "книга",
+            "transcription": "вивлио",
+            "sound_url": "",
+            "module": "Basic"
+        },
+        {
+            "emoji": "👂",
+            "word": "στόμα",
+            "translation": "рот",
+            "transcription": "стома",
+            "sound_url": "",
+            "module": "Basic"
+        },
+        {
+            "emoji": "👀",
+            "word": "μάτι",
+            "translation": "глаз",
+            "transcription": "мати",
+            "sound_url": "",
+            "module": "Basic"
+        },
+        {
+            "emoji": "🖐",
+            "word": "χέρι",
+            "translation": "рука",
+            "transcription": "хэри",
+            "sound_url": "",
+            "module": "Basic"
+        },
+        {
+            "emoji": "1️⃣",
+            "word": "ένα",
+            "translation": "один",
+            "transcription": "эна",
+            "sound_url": "",
+            "module": "Numbers"
+        },
+        {
+            "emoji": "2️⃣",
+            "word": "δύο",
+            "translation": "два",
+            "transcription": "дио",
+            "sound_url": "",
+            "module": "Numbers"
+        },
+        {
+            "emoji": "3️⃣",
+            "word": "τρία",
+            "translation": "три",
+            "transcription": "триа",
+            "sound_url": "",
+            "module": "Numbers"
+        },
+        {
+            "emoji": "4️⃣",
+            "word": "τέσσερα",
+            "translation": "четыре",
+            "transcription": "тэссэра",
+            "sound_url": "",
+            "module": "Numbers"
+        },
+        {
+            "emoji": "5️⃣",
+            "word": "πέντε",
+            "translation": "пять",
+            "transcription": "пэнде",
+            "sound_url": "",
+            "module": "Numbers"
+        },
+        {
+            "emoji": "6️⃣",
+            "word": "έξι",
+            "translation": "шесть",
+            "transcription": "эки",
+            "sound_url": "",
+            "module": "Numbers"
+        },
+        {
+            "emoji": "7️⃣",
+            "word": "επτά",
+            "translation": "семь",
+            "transcription": "эпта",
+            "sound_url": "",
+            "module": "Numbers"
+        },
+        {
+            "emoji": "8️⃣",
+            "word": "οκτώ",
+            "translation": "восемь",
+            "transcription": "окто",
+            "sound_url": "",
+            "module": "Numbers"
+        },
+        {
+            "emoji": "9️⃣",
+            "word": "εννέα",
+            "translation": "девять",
+            "transcription": "энэа",
+            "sound_url": "",
+            "module": "Numbers"
+        },
+        {
+            "emoji": "🔟",
+            "word": "δέκα",
+            "translation": "десять",
+            "transcription": "дека",
+            "sound_url": "",
+            "module": "Numbers"
+        },
+        {
+            "emoji": "❄️",
+            "word": "Ιανουάριος",
+            "translation": "январь",
+            "transcription": "иануарийос",
+            "sound_url": "",
+            "module": "Months"
+        },
+        {
+            "emoji": "☃️",
+            "word": "Φεβρουάριος",
+            "translation": "февраль",
+            "transcription": "февруариос",
+            "sound_url": "",
+            "module": "Months"
+        },
+        {
+            "emoji": "🌸",
+            "word": "Μάρτιος",
+            "translation": "март",
+            "transcription": "мартииос",
+            "sound_url": "",
+            "module": "Months"
+        },
+        {
+            "emoji": "🌷",
+            "word": "Απρίλιος",
+            "translation": "апрель",
+            "transcription": "априлиос",
+            "sound_url": "",
+            "module": "Months"
+        },
+        {
+            "emoji": "🌞",
+            "word": "Μάιος",
+            "translation": "май",
+            "transcription": "маиос",
+            "sound_url": "",
+            "module": "Months"
+        },
+        {
+            "emoji": "☀️",
+            "word": "Ιούνιος",
+            "translation": "июнь",
+            "transcription": "иунийос",
+            "sound_url": "",
+            "module": "Months"
+        },
+        {
+            "emoji": "🌻",
+            "word": "Ιούλιος",
+            "translation": "июль",
+            "transcription": "иулиос",
+            "sound_url": "",
+            "module": "Months"
+        },
+        {
+            "emoji": "🌞",
+            "word": "Αύγουστος",
+            "translation": "август",
+            "transcription": "августос",
+            "sound_url": "",
+            "module": "Months"
+        },
+        {
+            "emoji": "🍂",
+            "word": "Σεπτέμβριος",
+            "translation": "сентябрь",
+            "transcription": "септемвриос",
+            "sound_url": "",
+            "module": "Months"
+        },
+        {
+            "emoji": "🍁",
+            "word": "Οκτώβριος",
+            "translation": "октябрь",
+            "transcription": "октовриос",
+            "sound_url": "",
+            "module": "Months"
+        },
+        {
+            "emoji": "🍂",
+            "word": "Νοέμβριος",
+            "translation": "ноябрь",
+            "transcription": "ноэмвриос",
+            "sound_url": "",
+            "module": "Months"
+        },
+        {
+            "emoji": "❄️",
+            "word": "Δεκέμβριος",
+            "translation": "декабрь",
+            "transcription": "декемвриос",
+            "sound_url": "",
+            "module": "Months"
+        },
+        {
+            "emoji": "🌞",
+            "word": "Δευτέρα",
+            "translation": "понедельник",
+            "transcription": "дефте́ра",
+            "sound_url": "",
+            "module": "WeekDays"
+        },
+        {
+            "emoji": "🌷",
+            "word": "Τρίτη",
+            "translation": "вторник",
+            "transcription": "три́ти",
+            "sound_url": "",
+            "module": "WeekDays"
+        },
+        {
+            "emoji": "🌻",
+            "word": "Τετάρτη",
+            "translation": "среда",
+            "transcription": "тета́рти",
+            "sound_url": "",
+            "module": "WeekDays"
+        },
+        {
+            "emoji": "🌸",
+            "word": "Πέμπτη",
+            "translation": "четверг",
+            "transcription": "пем́пти",
+            "sound_url": "",
+            "module": "WeekDays"
+        },
+        {
+            "emoji": "🌞",
+            "word": "Παρασκευή",
+            "translation": "пятница",
+            "transcription": "параскеви́",
+            "sound_url": "",
+            "module": "WeekDays"
+        },
+        {
+            "emoji": "🌅",
+            "word": "Σάββατο",
+            "translation": "суббота",
+            "transcription": "савва́то",
+            "sound_url": "",
+            "module": "WeekDays"
+        },
+        {
+            "emoji": "🌞",
+            "word": "Κυριακή",
+            "translation": "воскресенье",
+            "transcription": "кирия́ки",
+            "sound_url": "",
+            "module": "WeekDays"
         }
     ]
 }
