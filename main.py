@@ -1,5 +1,5 @@
 from fastapi import FastAPI, HTTPException
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, FileResponse
 import json
 import uvicorn
 from pathlib import Path
@@ -67,9 +67,15 @@ async def get_language_info(lang_acronym: str, req_lang: str):
         raise HTTPException(detail=f"{req_lang.capitalize} does not exist.", status_code=404)
 
 
-@app.get("/linear/file/{filename}")
+@app.get("/file/{filename}")
 async def get_file(filename: str):
-	pass
+	file_path = Path(__file__).parent / "files" / filename
+	if not file_path.exists() or not file_path.is_file():
+		raise HTTPException(status_code=404, detail="File not found")
+	return FileResponse(
+		path=file_path,
+		filename=filename
+	)
 
 
 if __name__ == '__main__':

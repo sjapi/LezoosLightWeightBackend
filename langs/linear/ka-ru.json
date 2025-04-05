@@ -2,7 +2,7 @@
     "id": 1,
     "name": "грузинский",
     "acronym": "ka",
-    "source": "ru",
+	"source": "ru",
     "emoji": "🇬🇪",
     "type": "linear",
     "letters_count": 33,
@@ -10,14 +10,14 @@
         {
             "index": 0,
             "name": "ა",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ა",
+            "image_url": "https://sjapi.tech/file/A.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ა",
             "sound_url": "",
             "description": "",
             "uppercase": "ა",
             "lowercase": "ა",
             "quiz": "Атлас Алфавит Апатия Анаконда Аппаратура",
-            "phonetic_transcription": "a"
+            "phonetic_transcription": "а"
         },
         {
             "index": 1,
@@ -29,7 +29,7 @@
             "uppercase": "ი",
             "lowercase": "ი",
             "quiz": "Инжир Истина Институт Интуиция Инициатива",
-            "phonetic_transcription": "i"
+            "phonetic_transcription": "и"
         },
         {
             "index": 2,
@@ -41,7 +41,7 @@
             "uppercase": "ე",
             "lowercase": "ე",
             "quiz": "Эхо Эмоция Эпизод Электроэнергия Электроэпиляция",
-            "phonetic_transcription": "e"
+            "phonetic_transcription": "э"
         },
         {
             "index": 3,
@@ -53,7 +53,7 @@
             "uppercase": "ს",
             "lowercase": "ს",
             "quiz": "Соска Сосна Список Система Сумасшествие",
-            "phonetic_transcription": "s"
+            "phonetic_transcription": "с"
         },
         {
             "index": 4,
@@ -65,7 +65,7 @@
             "uppercase": "რ",
             "lowercase": "რ",
             "quiz": "Ребро Разрез Раритет Розыгрыш Резервуар",
-            "phonetic_transcription": "r"
+            "phonetic_transcription": "р"
         },
         {
             "index": 5,
@@ -77,7 +77,7 @@
             "uppercase": "ო",
             "lowercase": "ო",
             "quiz": "Око Окно Озеро Окончание Основоположник",
-            "phonetic_transcription": "o"
+            "phonetic_transcription": "о"
         },
         {
             "index": 6,
@@ -89,7 +89,7 @@
             "uppercase": "მ",
             "lowercase": "მ",
             "quiz": "Мама Мимика Мамонт Минимум Минимализм",
-            "phonetic_transcription": "m"
+            "phonetic_transcription": "м"
         },
         {
             "index": 7,
@@ -101,7 +101,7 @@
             "uppercase": "ლ",
             "lowercase": "ლ",
             "quiz": "Лилия Лекало Любовь Ледокол Лесопилка",
-            "phonetic_transcription": "l"
+            "phonetic_transcription": "л"
         },
         {
             "index": 8,
@@ -113,7 +113,7 @@
             "uppercase": "ნ",
             "lowercase": "ნ",
             "quiz": "Няня Нюанс Нежность Наименование Неоднозначность",
-            "phonetic_transcription": "n"
+            "phonetic_transcription": "н"
         },
         {
             "index": 9,
@@ -125,7 +125,7 @@
             "uppercase": "დ",
             "lowercase": "დ",
             "quiz": "Дед Дядя Дождь Домосед Дедукция",
-            "phonetic_transcription": "d"
+            "phonetic_transcription": "д"
         },
         {
             "index": 10,
@@ -137,7 +137,7 @@
             "uppercase": "ბ",
             "lowercase": "ბ",
             "quiz": "Бобы Барабан Бабушка Бабочка Библиотека",
-            "phonetic_transcription": "b"
+            "phonetic_transcription": "б"
         },
         {
             "index": 11,
@@ -149,7 +149,7 @@
             "uppercase": "ვ",
             "lowercase": "ვ",
             "quiz": "Вода Воин Вожак Воздух Ворона",
-            "phonetic_transcription": "v"
+            "phonetic_transcription": "в"
         },
         {
             "index": 12,
@@ -161,7 +161,7 @@
             "uppercase": "უ",
             "lowercase": "უ",
             "quiz": "Укус Услуга Уникум Упругость Ультиматум",
-            "phonetic_transcription": "u"
+            "phonetic_transcription": "у"
         },
         {
             "index": 13,
@@ -173,7 +173,7 @@
             "uppercase": "გ",
             "lowercase": "გ",
             "quiz": "Гонг Гигант Глагол Гигиена Голограмма",
-            "phonetic_transcription": "g"
+            "phonetic_transcription": "г"
         },
         {
             "index": 14,
@@ -185,7 +185,7 @@
             "uppercase": "ტ",
             "lowercase": "ტ",
             "quiz": "Торт Титул Трактат Тротуар Татуировка",
-            "phonetic_transcription": "t"
+            "phonetic_transcription": "т"
         },
         {
             "index": 15,
@@ -197,7 +197,7 @@
             "uppercase": "შ",
             "lowercase": "შ",
             "quiz": "Шов Шишка Шалаш Шашлык Шершень",
-            "phonetic_transcription": "ʃ"
+            "phonetic_transcription": "ш"
         },
         {
             "index": 16,
@@ -209,7 +209,7 @@
             "uppercase": "კ",
             "lowercase": "კ",
             "quiz": "Крик Кокон Кактус Колокол Корректировка",
-            "phonetic_transcription": "k"
+            "phonetic_transcription": "к"
         },
         {
             "index": 17,
@@ -221,7 +221,7 @@
             "uppercase": "ხ",
             "lowercase": "ხ",
             "quiz": "Хост Холод Хохма Хохот Хохолок",
-            "phonetic_transcription": "x"
+            "phonetic_transcription": "х"
         },
         {
             "index": 18,
@@ -233,7 +233,7 @@
             "uppercase": "ც",
             "lowercase": "ც",
             "quiz": "Цепь Центр Цацки Царица Цивилизация",
-            "phonetic_transcription": "ts"
+            "phonetic_transcription": "ц"
         },
         {
             "index": 19,
@@ -245,7 +245,7 @@
             "uppercase": "პ",
             "lowercase": "პ",
             "quiz": "Папа Пепел Попкорн Параплан Преподаватель",
-            "phonetic_transcription": "p"
+            "phonetic_transcription": "п"
         },
         {
             "index": 20,
@@ -257,7 +257,7 @@
             "uppercase": "ზ",
             "lowercase": "ზ",
             "quiz": "Зазор Заезд Заказ Звезда Загрузка",
-            "phonetic_transcription": "z"
+            "phonetic_transcription": "з"
         },
         {
             "index": 21,
@@ -269,7 +269,7 @@
             "uppercase": "ჩ",
             "lowercase": "ჩ",
             "quiz": "Чай Чудо Чучело Чурчхела Чечевица",
-            "phonetic_transcription": "tʃ"
+            "phonetic_transcription": "ч"
         },
         {
             "index": 22,
@@ -281,7 +281,7 @@
             "uppercase": "ჟ",
             "lowercase": "ჟ",
             "quiz": "Жижа Жизнь Жажда Жужжание Жемчужина",
-            "phonetic_transcription": "zh"
+            "phonetic_transcription": "ж"
         },
         {
             "index": 23,
