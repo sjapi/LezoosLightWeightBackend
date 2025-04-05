@@ -45,7 +45,7 @@ async def get_available_languages(req_lang: str):
 async def get_language_info(lang_acronym: str, req_lang: str):
     if req_lang == 'ru':
         if lang_acronym == 'el' or lang_acronym == 'ka':
-            json_file_path = Path(__file__).parent.parent / "langs" / "linear" / f"{lang_acronym}-{req_lang}.json"
+            json_file_path = Path(__file__).parent / "langs" / "linear" / f"{lang_acronym}-{req_lang}.json"
             # Check if the file exists
             if not json_file_path.exists():
                 raise HTTPException(status_code=404, detail="Language file not found")
@@ -73,4 +73,10 @@ async def get_file(filename: str):
 
 
 if __name__ == '__main__':
-	uvicorn.run("main:app", host="0.0.0.0", port=8000)
+	uvicorn.run(
+        "main:app",
+        host="0.0.0.0",
+        port=443,
+        ssl_keyfile="/ssl/privkey.pem",
+        ssl_certfile="/ssl/fullchain.pem"
+    )
