@@ -2,7 +2,7 @@
     "id": 1,
     "name": "грузинский",
     "acronym": "ka",
-	"source": "ru",
+    "source": "ru",
     "emoji": "🇬🇪",
     "type": "linear",
     "letters_count": 33,
@@ -16,7 +16,7 @@
             "description": "",
             "uppercase": "ა",
             "lowercase": "ა",
-            "quiz": "Атлас Алфавит Апатия Анаконда Аппаратура"],
+            "quiz": "Атлас Алфавит Апатия Анаконда Аппаратура",
             "phonetic_transcription": "a"
         },
         {
@@ -390,7 +390,7 @@
             "lowercase": "ჰ",
             "quiz": "",
             "phonetic_transcription": "h"
-        }
+        },
         {
             "index": 32,
             "name": "ჭ",
@@ -402,8 +402,7 @@
             "lowercase": "ჭ",
             "quiz": "",
             "phonetic_transcription": "tʃ’"
-        },
-
+        }
     ],
     "words_count": 0,
     "words": [
