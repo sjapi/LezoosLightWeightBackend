@@ -22,7 +22,7 @@
         {
             "index": 1,
             "name": "ი",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ი",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-1.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ი",
             "sound_url": "",
             "description": "",
@@ -34,7 +34,7 @@
         {
             "index": 2,
             "name": "ე",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ე",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-2.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ე",
             "sound_url": "",
             "description": "",
@@ -46,7 +46,7 @@
         {
             "index": 3,
             "name": "ს",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ს",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-3.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ს",
             "sound_url": "",
             "description": "",
@@ -58,7 +58,7 @@
         {
             "index": 4,
             "name": "რ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=რ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-4.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=რ",
             "sound_url": "",
             "description": "",
@@ -70,7 +70,7 @@
         {
             "index": 5,
             "name": "ო",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ო",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-5.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ო",
             "sound_url": "",
             "description": "",
@@ -82,7 +82,7 @@
         {
             "index": 6,
             "name": "მ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=მ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-6.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=მ",
             "sound_url": "",
             "description": "",
@@ -94,7 +94,7 @@
         {
             "index": 7,
             "name": "ლ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ლ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-7.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ლ",
             "sound_url": "",
             "description": "",
@@ -106,7 +106,7 @@
         {
             "index": 8,
             "name": "ნ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ნ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-8.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ნ",
             "sound_url": "",
             "description": "",
@@ -118,7 +118,7 @@
         {
             "index": 9,
             "name": "დ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=დ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-9.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=დ",
             "sound_url": "",
             "description": "",
@@ -130,7 +130,7 @@
         {
             "index": 10,
             "name": "ბ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ბ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-10.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ბ",
             "sound_url": "",
             "description": "",
@@ -142,7 +142,7 @@
         {
             "index": 11,
             "name": "ვ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ვ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-11.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ვ",
             "sound_url": "",
             "description": "",
@@ -154,7 +154,7 @@
         {
             "index": 12,
             "name": "უ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=უ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-12.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=უ",
             "sound_url": "",
             "description": "უ, ოცდაშვიდე ასო ქართული ანბანის.",
@@ -166,7 +166,7 @@
         {
             "index": 13,
             "name": "გ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=გ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-13.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=გ",
             "sound_url": "",
             "description": "",
@@ -178,7 +178,7 @@
         {
             "index": 14,
             "name": "ტ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ტ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-14.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ტ",
             "sound_url": "",
             "description": "",
@@ -190,7 +190,7 @@
         {
             "index": 15,
             "name": "შ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=შ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-15.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=შ",
             "sound_url": "",
             "description": "",
@@ -202,7 +202,7 @@
         {
             "index": 16,
             "name": "კ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=კ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-16.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=კ",
             "sound_url": "",
             "description": "",
@@ -214,7 +214,7 @@
         {
             "index": 17,
             "name": "ხ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ხ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-17.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ხ",
             "sound_url": "",
             "description": "",
@@ -226,7 +226,7 @@
         {
             "index": 18,
             "name": "ც",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ც",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-18.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ც",
             "sound_url": "",
             "description": "",
@@ -238,7 +238,7 @@
         {
             "index": 19,
             "name": "პ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=პ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-19.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=პ",
             "sound_url": "",
             "description": "",
@@ -250,7 +250,7 @@
         {
             "index": 20,
             "name": "ზ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ზ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-20.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ზ",
             "sound_url": "",
             "description": "",
@@ -262,7 +262,7 @@
         {
             "index": 21,
             "name": "ჩ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ჩ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-21.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ჩ",
             "sound_url": "",
             "description": "",
@@ -274,7 +274,7 @@
         {
             "index": 22,
             "name": "ჟ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ჟ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-22.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ჟ",
             "sound_url": "",
             "description": "",
@@ -286,7 +286,7 @@
         {
             "index": 23,
             "name": "თ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=თ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-23.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=თ",
             "sound_url": "",
             "description": "",
@@ -298,7 +298,7 @@
         {
             "index": 24,
             "name": "წ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=წ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-24.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=წ",
             "sound_url": "",
             "description": "",
@@ -310,7 +310,7 @@
         {
             "index": 25,
             "name": "ქ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ქ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-25.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ქ",
             "sound_url": "",
             "description": "",
@@ -322,7 +322,7 @@
         {
             "index": 26,
             "name": "ფ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ფ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-26.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ფ",
             "sound_url": "",
             "description": "",
@@ -334,7 +334,7 @@
         {
             "index": 27,
             "name": "ყ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ყ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-27.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ყ",
             "sound_url": "",
             "description": "",
@@ -346,7 +346,7 @@
         {
             "index": 28,
             "name": "ღ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ღ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-28.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ღ",
             "sound_url": "",
             "description": "",
@@ -358,7 +358,7 @@
         {
             "index": 29,
             "name": "ძ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ძ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-29.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ძ",
             "sound_url": "",
             "description": "",
@@ -370,7 +370,7 @@
         {
             "index": 30,
             "name": "ჯ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ჯ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-30.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ჯ",
             "sound_url": "",
             "description": "",
@@ -382,7 +382,7 @@
         {
             "index": 31,
             "name": "ჰ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ჰ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-31.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ჰ",
             "sound_url": "",
             "description": "",
@@ -394,7 +394,7 @@
         {
             "index": 32,
             "name": "ჭ",
-            "image_url": "https://placehold.co/400x400/4776FF/FFFFFF/png?text=ჭ",
+            "image_url": "https://sjapi.tech/file/ka-ru-letter-32.png",
             "handwriting_image_url": "https://placehold.co/100x50/4776FF/FFFFFF/png?text=ჭ",
             "sound_url": "",
             "description": "",
