@@ -14,22 +14,13 @@ async def get_available_languages(req_lang: str):
             content={
                 "list": [
                     {
-                        "id": 0,
-                        "name": "Греческий",
-                        "acronym": "el",
-						"source": "ru",
-                        "emoji": "🇬🇷",
-						"type": "linear",
-                        "available": True
-                    },
-                    {
                         "id": 1,
                         "name": "Грузинский",
                         "acronym": "ka",
 						"source": "ru",
                         "emoji": "🇬🇪",
 						"type": "linear",
-                        "available": False
+                        "available": True
                     }
                 ]
             },
