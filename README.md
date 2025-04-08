@@ -1,7 +1,12 @@
-### How to launch:
+# Lezoos Light Weight Backend
+
+## It's not perfect, but it works :)
+
+How to lauch:
+```bash
+docker build -t {put image name here} .
+docker run --name={put container name here} -p 443:443 {put image name here}
 ```
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-fastapi dev src
-```
+
+P.S.  
+https://github.com/sjapi/LezoosBackend - first (big & not finished version of backend)
